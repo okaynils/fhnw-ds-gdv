@@ -3,3 +3,6 @@ data/*.zip
 .venv/
 .env
 .DS_Store
+export/*.jpg
+export/*.jpeg
+export/*.png
