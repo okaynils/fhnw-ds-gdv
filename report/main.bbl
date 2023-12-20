@@ -8,7 +8,8 @@ Jack Dougherty and Ilya Ilyankou.
 \bibitem{bergmanRulebasedToolAssisting1995}
 L.D. Bergman, B.E. Rogowitz, and L.A. Treinish.
 \newblock A rule-based tool for assisting colormap selection.
-\newblock In {\em Proceedings {{Visualization}} '95}, pages 118--125,, {Atlanta, GA, USA}, 1995. {IEEE Comput. Soc. Press}.
+\newblock In {\em Proceedings {{Visualization}} '95}, pages 118--125,,
+  {Atlanta, GA, USA}, 1995. {IEEE Comput. Soc. Press}.
 
 \bibitem{LegendsDataVisualization}
 Legends | {{Data Visualization Standards}}.
@@ -23,16 +24,21 @@ Jack Dougherty and Ilya Ilyankou.
 \newblock Normalize {{Choropleth Map Data}}.
 \newblock In {\em Hands-{{On Data Visualization}}}. {Picturedigits Ltd.}, 2021.
 
-\bibitem{GrammarGraphics2005}
-{\em The {{Grammar}} of {{Graphics}}}.
-\newblock Statistics and {{Computing}}. {Springer-Verlag}, {New York}, 2005.
-
 \bibitem{wilkinsonHowMakePie2005}
 How {{To Make}} a {{Pie}}.
-\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}}, Statistics and {{Computing}}, pages 23--40. {Springer}, {New York, NY}, 2005.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 23--40. {Springer}, {New York, NY}, 2005.
 
 \bibitem{wilkinsonAesthetics2005}
 Aesthetics.
-\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}}, Statistics and {{Computing}}, pages 255--318. {Springer}, {New York, NY}, 2005.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 255--318. {Springer}, {New York, NY},
+  2005.
+
+\bibitem{wilkinsonScales2005}
+Scales.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 85--109. {Springer}, {New York, NY},
+  2005.
 
 \end{thebibliography}
