@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{doughertyDesignChoroplethColors2021}
 Jack Dougherty and Ilya Ilyankou.
@@ -40,5 +40,29 @@ Scales.
 \newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
   Statistics and {{Computing}}, pages 85--109. {Springer}, {New York, NY},
   2005.
+
+\bibitem{wilkinsonGeometry2005}
+Geometry.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 155--178. {Springer}, {New York, NY},
+  2005.
+
+\bibitem{wilkinsonStatistics2005}
+Statistics.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 111--154. {Springer}, {New York, NY},
+  2005.
+
+\bibitem{wilkinsonCoordinates2005}
+Coordinates.
+\newblock In Leland Wilkinson, editor, {\em The {{Grammar}} of {{Graphics}}},
+  Statistics and {{Computing}}, pages 179--254. {Springer}, {New York, NY},
+  2005.
+
+\bibitem{alma99116746755205518}
+{\relax Fletcher}.~Dunn and {\relax Ian}.~Parberry.
+\newblock {{3D}} math primer for graphics and game development.
+\newblock In {\em {{3D}} Math Primer for Graphics and Game Development}. {CRC
+  Press}, {Boca Raton, Fla}, 2nd ed. edition, 2011.
 
 \end{thebibliography}
