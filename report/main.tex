@@ -8,8 +8,6 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \usepackage{caption}
-% \setlength{\belowcaptionskip}{pt}
-%  \setlength{\abovecaptionskip}{-1pt}
 \usepackage{multicol}
 \fancyhf{} % Clear header and footer
 \fancypagestyle{plain}{
@@ -31,10 +29,11 @@
     urlcolor=cyan
     }
 \usepackage{titlesec}
+\usepackage{float}
+\usepackage{subfig}
 
 \bibliographystyle{unsrt}
 
-% Redefining title margins
 \titleformat{\chapter}[display]
   {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{0pt}{\Huge}
 \titlespacing*{\chapter}{0pt}{0pt}{10pt}

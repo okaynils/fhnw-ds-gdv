@@ -208,6 +208,10 @@ INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\subfig\subfig.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
@@ -460,6 +464,18 @@ OUTPUT Chapters\LO5.aux
 INPUT .\Chapters\LO5.tex
 INPUT .\Chapters\LO5.tex
 INPUT Chapters\LO5.tex
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_1.png
+INPUT .\Images\figures\survey_2.png
+INPUT .\Images\figures\survey_2.png
+INPUT .\Images\figures\survey_2.png
+INPUT .\Images\figures\survey_2.png
+INPUT .\Images\figures\survey_2.png
+INPUT .\Images\figures\survey_2.png
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl

@@ -23,45 +23,45 @@ Warning--empty author in wilkinsonScales2005
 Warning--empty author in wilkinsonGeometry2005
 Warning--empty author in wilkinsonStatistics2005
 Warning--empty author in wilkinsonCoordinates2005
-You've used 12 entries,
+You've used 13 entries,
             1791 wiz_defined-function locations,
-            515 strings with 5056 characters,
-and the built_in function-call counts, 3344 in all, are:
-= -- 344
-> -- 67
+            520 strings with 5204 characters,
+and the built_in function-call counts, 3464 in all, are:
+= -- 352
+> -- 71
 < -- 7
-+ -- 27
-- -- 15
-* -- 190
-:= -- 428
-add.period$ -- 38
-call.type$ -- 12
-change.case$ -- 13
++ -- 29
+- -- 16
+* -- 193
+:= -- 445
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 198
-empty$ -- 378
-format.name$ -- 15
-if$ -- 840
+cite$ -- 19
+duplicate$ -- 203
+empty$ -- 396
+format.name$ -- 16
+if$ -- 868
 int.to.chr$ -- 0
-int.to.str$ -- 12
+int.to.str$ -- 13
 missing$ -- 10
-newline$ -- 55
-num.names$ -- 16
-pop$ -- 60
+newline$ -- 59
+num.names$ -- 17
+pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 121
+skip$ -- 125
 stack$ -- 0
 substring$ -- 214
-swap$ -- 71
+swap$ -- 72
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 6
-while$ -- 31
-width$ -- 14
-write$ -- 136
+while$ -- 32
+width$ -- 15
+write$ -- 144
 (There were 6 warnings)
